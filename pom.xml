@@ -17,9 +17,10 @@
 
 	<build>
 		<plugins>
-
 			<plugin>
-				<!-- java -jar target/dependency/jetty-runner.jar target/*.war http://localhost:8080/rest/hello/naven -->
+				<!-- java -jar target/dependency/jetty-runner.jar target/*.war 
+				https://heroku-sample-web-rest.herokuapp.com/rest/hello/welcome 
+				-->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
 				<version>2.3</version>
