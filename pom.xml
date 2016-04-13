@@ -96,7 +96,7 @@
 				<version>1.0.0</version>
 
 				<configuration>
-					<appName>heroku-sample-web-rest</appName>
+					<appName>heroku-sample-web-rest-dev</appName>
 				</configuration>
 
 			</plugin>			
